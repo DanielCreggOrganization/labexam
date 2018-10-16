@@ -1,6 +1,6 @@
-package ie.gmit.packagename;
+package ie.gmit.employeemanager;
 
-public class HelloWorld {
+public class Runner {
 	
 	public static void main(String[] args) {
 		// Print Hello World! to the console.
